@@ -16,7 +16,7 @@
   "homepage": "https://github.com/seanewest/cheesy",
   "dependencies": {
     "browserify": "^8.0.2",
-    "jstohtml": "git://github.com/seanewest/jstohtml",
-    "thrust-cat": "git://github.com/seanewest/thrust-cat"
+    "jstohtml": "git://github.com/seanewest/jstohtml#1df3e141544461460897a812615374c09e20ea96",
+    "thrust-cat": "git://github.com/seanewest/thrust-cat#6aa471d9cbc22ae0af24baa675f3ceed233d4b49"
   }
 }
