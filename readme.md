@@ -1,6 +1,6 @@
 # Cheesy
 
-*Browserify your code and run it in it's own Thrust browser window.*
+*Browserify your code and run it in it's own [Thrust](https://github.com/breach/thrust) browser window.*
 
 ## Example
 
