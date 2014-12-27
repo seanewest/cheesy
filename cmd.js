@@ -14,7 +14,7 @@ if (process.argv[3])
 if (process.argv[4])
   height = parseInt(process.argv[4]);
 
-entry = path.join(process.cwd(), entry);
+entry = path.resolve(process.cwd(), entry);
 
 browserify(entry).bundle(function(err, buf) {
   if (err)
