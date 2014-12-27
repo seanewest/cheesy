@@ -1,0 +1,22 @@
+{
+  "name": "cheesy",
+  "version": "2.0.0",
+  "description": "Browserify your code and run it in it's own Thrust browser window",
+  "bin": "cmd.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seanewest/cheesy.git"
+  },
+  "keywords": [
+    "browserify",
+    "thrust"
+  ],
+  "author": "Sean West",
+  "license": "ISC",
+  "homepage": "https://github.com/seanewest/cheesy",
+  "dependencies": {
+    "browserify": "^8.0.2",
+    "jstohtml": "git://github.com/seanewest/jstohtml",
+    "thrust-cat": "git://github.com/seanewest/thrust-cat"
+  }
+}
