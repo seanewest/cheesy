@@ -8,14 +8,14 @@
 cheesy main.js 800 600
 ```
 
-This will pop open its own bare-bones browser window with width 640 and height 480.
+This will browserify your js, wrap it in an html template, and then open it an a thrust browser window with width 640 and height 480.
 
 Specifying the width and height is optional.
 
 ## Install
 
 ```
-npm install -g cheesy
+npm install -g seanewest/cheesy
 ```
 
 ## Usage
