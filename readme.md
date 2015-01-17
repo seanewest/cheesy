@@ -8,7 +8,7 @@
 cheesy main.js 800 600
 ```
 
-This will browserify your js, wrap it in an html template, and then open it an a thrust browser window with width 640 and height 480.
+This will browserify your js, wrap it in an html template, and then open it an a thrust browser window with width 800 and height 600.
 
 Specifying the width and height is optional.
 
